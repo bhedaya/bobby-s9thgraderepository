@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+#jordan {
+    height: 200px;
+    width: 300px;
+}
+#federrer {
+    height: 200px;
+    width: 300px;    
+}
+#odell {
+    height: 200px;
+    width: 300px;
+}
+h1 {
+    font-family: 'Jim Nightshade', cursive;
+    color: blue;
+    font-size: 50px;
+    font-style: italic;
+}
+body {
+    background-color: red;
+}
+a {
+    font-size: 40px;
+    color: purple;
+}
+h2 {
+    font-family: 'Jim Nightshade', cursive;
+    font-style: oblique;
+    color: green;
+    font-size: 45px;
+}
+h2:hover {
+    font-style: oblique;
+    color: black;
+    font-size: 45px;
+}
+div {
+    border:15px blue dotted;
+}
